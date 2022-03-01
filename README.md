@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DevPatel29
+- 👋 Hi, I’m Dev Patel
 - 👀 I’m interested in Software Development
 - 🌱 I’m working on an Unreal Project 
-- 📫 How to reach me at devmpatel29@gmail.com
+- 📫 Reach me at devmpatel29@gmail.com
 
 <!---
 DevPatel29/DevPatel29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
